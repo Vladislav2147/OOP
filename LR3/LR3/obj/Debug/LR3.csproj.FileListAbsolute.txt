@@ -1,0 +1,6 @@
+F:\2 курс\ООП\LR3\LR3\bin\Debug\LR3.exe.config
+F:\2 курс\ООП\LR3\LR3\bin\Debug\LR3.exe
+F:\2 курс\ООП\LR3\LR3\bin\Debug\LR3.pdb
+F:\2 курс\ООП\LR3\LR3\obj\Debug\LR3.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR3\LR3\obj\Debug\LR3.exe
+F:\2 курс\ООП\LR3\LR3\obj\Debug\LR3.pdb

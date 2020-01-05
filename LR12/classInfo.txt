@@ -1,0 +1,117 @@
+LR12.Parrot
+
+Double get_Weight()
+Int32 get_Year()
+Void SaySomething()
+Void DoParrotThings(System.String, System.String)
+Void Move()
+Void Breathe()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor(System.String, System.String, Double, Int32)
+Double Weight
+Int32 Year
+------------------------------------------------------
+LR12.Shop
+
+System.String get_City()
+Void set_City(System.String)
+System.String get_Name()
+System.String get_Adress()
+Void set_Adress(System.String)
+Int32 get_NumberOfEmployees()
+Void set_NumberOfEmployees(Int32)
+Int32 NumberOfShops()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor()
+Void .ctor(System.String, System.String, Int32)
+Void .ctor(LR12.Shop)
+System.String City
+System.String Name
+System.String Adress
+Int32 NumberOfEmployees
+System.String country
+------------------------------------------------------
+LR12.Parrot
+
+Double get_Weight()
+Int32 get_Year()
+Void SaySomething()
+Void DoParrotThings(System.String, System.String)
+Void Move()
+Void Breathe()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor(System.String, System.String, Double, Int32)
+Double Weight
+Int32 Year
+------------------------------------------------------
+LR12.Parrot
+
+Double get_Weight()
+Int32 get_Year()
+Void SaySomething()
+Void DoParrotThings(System.String, System.String)
+Void Move()
+Void Breathe()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor(System.String, System.String, Double, Int32)
+Double Weight
+Int32 Year
+------------------------------------------------------
+LR12.Shop
+
+System.String get_City()
+Void set_City(System.String)
+System.String get_Name()
+System.String get_Adress()
+Void set_Adress(System.String)
+Int32 get_NumberOfEmployees()
+Void set_NumberOfEmployees(Int32)
+Int32 NumberOfShops()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor()
+Void .ctor(System.String, System.String, Int32)
+Void .ctor(LR12.Shop)
+System.String City
+System.String Name
+System.String Adress
+Int32 NumberOfEmployees
+System.String country
+------------------------------------------------------
+LR12.Shop
+
+System.String get_City()
+Void set_City(System.String)
+System.String get_Name()
+System.String get_Adress()
+Void set_Adress(System.String)
+Int32 get_NumberOfEmployees()
+Void set_NumberOfEmployees(Int32)
+Int32 NumberOfShops()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.Type GetType()
+Void .ctor()
+Void .ctor(System.String, System.String, Int32)
+Void .ctor(LR12.Shop)
+System.String City
+System.String Name
+System.String Adress
+Int32 NumberOfEmployees
+System.String country
+------------------------------------------------------

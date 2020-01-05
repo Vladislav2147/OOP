@@ -1,0 +1,99 @@
+SVSDiskInfo DiskFreeSpace	C:\	17.12.2019 18:35:28
+SVSDiskInfo FileSystemInfo	root	17.12.2019 18:35:28
+SVSDiskInfo AllDiskInfo	root	17.12.2019 18:35:28
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	17.12.2019 18:35:28
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	17.12.2019 18:35:28
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	17.12.2019 18:35:28
+SVSFileManager CheckFiles	C:\	17.12.2019 18:35:28
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	17.12.2019 18:35:28
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	17.12.2019 18:35:28
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 22:40:24
+SVSDiskInfo FileSystemInfo	root	18.12.2019 22:40:24
+SVSDiskInfo AllDiskInfo	root	18.12.2019 22:40:24
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 22:40:24
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 22:40:24
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 22:40:24
+SVSFileManager CheckFiles	C:\	18.12.2019 22:40:24
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 22:40:24
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 22:40:24
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 22:55:22
+SVSDiskInfo FileSystemInfo	root	18.12.2019 22:55:22
+SVSDiskInfo AllDiskInfo	root	18.12.2019 22:55:22
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 22:55:22
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 22:55:22
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 22:55:22
+SVSFileManager CheckFiles	C:\	18.12.2019 22:55:23
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 22:55:23
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 22:55:23
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 22:55:40
+SVSDiskInfo FileSystemInfo	root	18.12.2019 22:55:40
+SVSDiskInfo AllDiskInfo	root	18.12.2019 22:55:40
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 22:55:40
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 22:55:40
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 22:55:40
+SVSFileManager CheckFiles	C:\	18.12.2019 22:55:40
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 22:55:40
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 22:55:40
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 22:57:59
+SVSDiskInfo FileSystemInfo	root	18.12.2019 22:57:59
+SVSDiskInfo AllDiskInfo	root	18.12.2019 22:57:59
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 22:57:59
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 22:57:59
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 22:57:59
+SVSFileManager CheckFiles	C:\	18.12.2019 22:57:59
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 22:57:59
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 22:57:59
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 22:58:27
+SVSDiskInfo FileSystemInfo	root	18.12.2019 22:58:27
+SVSDiskInfo AllDiskInfo	root	18.12.2019 22:58:27
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 22:58:27
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 22:58:27
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 22:58:27
+SVSFileManager CheckFiles	C:\	18.12.2019 22:58:27
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 22:58:27
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 22:58:27
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 23:25:52
+SVSDiskInfo FileSystemInfo	root	18.12.2019 23:25:52
+SVSDiskInfo AllDiskInfo	root	18.12.2019 23:25:52
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 23:25:52
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 23:25:52
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 23:25:52
+SVSFileManager CheckFiles	C:\	18.12.2019 23:25:52
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 23:25:52
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 23:25:52
+SVSDiskInfo DiskFreeSpace	C:\	18.12.2019 23:26:59
+SVSDiskInfo FileSystemInfo	root	18.12.2019 23:26:59
+SVSDiskInfo AllDiskInfo	root	18.12.2019 23:26:59
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	18.12.2019 23:26:59
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	18.12.2019 23:26:59
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	18.12.2019 23:26:59
+SVSFileManager CheckFiles	C:\	18.12.2019 23:26:59
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	18.12.2019 23:26:59
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	18.12.2019 23:26:59
+SVSDiskInfo DiskFreeSpace	C:\	19.12.2019 17:46:12
+SVSDiskInfo FileSystemInfo	root	19.12.2019 17:46:12
+SVSDiskInfo AllDiskInfo	root	19.12.2019 17:46:12
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	19.12.2019 17:46:12
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	19.12.2019 17:46:12
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	19.12.2019 17:46:12
+SVSFileManager CheckFiles	C:\	19.12.2019 17:46:12
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	19.12.2019 17:46:12
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	19.12.2019 17:46:12
+SVSDiskInfo DiskFreeSpace	C:\	19.12.2019 17:51:51
+SVSDiskInfo FileSystemInfo	root	19.12.2019 17:51:51
+SVSDiskInfo AllDiskInfo	root	19.12.2019 17:51:51
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	19.12.2019 17:51:51
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	19.12.2019 17:51:51
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	19.12.2019 17:51:51
+SVSFileManager CheckFiles	C:\	19.12.2019 17:51:51
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	19.12.2019 17:51:51
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	19.12.2019 17:51:52
+SVSDiskInfo DiskFreeSpace	C:\	19.12.2019 17:53:41
+SVSDiskInfo FileSystemInfo	root	19.12.2019 17:53:41
+SVSDiskInfo AllDiskInfo	root	19.12.2019 17:53:41
+SVSFileInfo FileInfo	..\..\..\SVSlog.txt	19.12.2019 17:53:41
+SVSFileInfo WhereWasCreated	..\..\..\SVSlog.txt	19.12.2019 17:53:41
+SVSDirInfo DirInfo	F:\2 курс\ООП\LR13\LR13\bin\Debug	19.12.2019 17:53:41
+SVSFileManager CheckFiles	C:\	19.12.2019 17:53:41
+SVSFileManager CopyDirectory	F:\2 курс\ООП\LR13\LR13\obj\Debug	19.12.2019 17:53:41
+SVSFileManager ZipDirectory	..\..\..\SVSInspect\SVSFiles	19.12.2019 17:53:41

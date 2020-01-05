@@ -1,0 +1,6 @@
+F:\2 курс\ООП\LR11\LR11\bin\Debug\LR11.exe.config
+F:\2 курс\ООП\LR11\LR11\bin\Debug\LR11.exe
+F:\2 курс\ООП\LR11\LR11\bin\Debug\LR11.pdb
+F:\2 курс\ООП\LR11\LR11\obj\Debug\LR11.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR11\LR11\obj\Debug\LR11.exe
+F:\2 курс\ООП\LR11\LR11\obj\Debug\LR11.pdb

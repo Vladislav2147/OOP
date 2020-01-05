@@ -1,0 +1,14 @@
+F:\2 курс\ООП\LR1\LR1\bin\Debug\LR1.exe.config
+F:\2 курс\ООП\LR1\LR1\bin\Debug\LR1.exe
+F:\2 курс\ООП\LR1\LR1\bin\Debug\LR1.pdb
+F:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+F:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.exe
+F:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.pdb
+H:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.csprojAssemblyReference.cache
+H:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+H:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.exe
+H:\2 курс\ООП\LR1\LR1\obj\Debug\LR1.pdb
+H:\2 курс\ООП\LR1\LR1\bin\Debug\LR1.exe.config
+H:\2 курс\ООП\LR1\LR1\bin\Debug\LR1.exe
+H:\2 курс\ООП\LR1\LR1\bin\Debug\LR1.pdb

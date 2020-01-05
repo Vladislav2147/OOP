@@ -1,0 +1,6 @@
+F:\2 курс\ООП\LR8\LR8\bin\Debug\LR8.exe.config
+F:\2 курс\ООП\LR8\LR8\bin\Debug\LR8.exe
+F:\2 курс\ООП\LR8\LR8\bin\Debug\LR8.pdb
+F:\2 курс\ООП\LR8\LR8\obj\Debug\LR8.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR8\LR8\obj\Debug\LR8.exe
+F:\2 курс\ООП\LR8\LR8\obj\Debug\LR8.pdb

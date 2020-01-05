@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfLion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lion>
+    <_location>Africa</_location>
+    <_name>lion1</_name>
+  </Lion>
+  <Lion>
+    <_location>Uganda</_location>
+    <_name>lion2</_name>
+  </Lion>
+  <Lion>
+    <_location>Savannah</_location>
+    <_name>Simba</_name>
+  </Lion>
+  <Lion>
+    <_location>Cartoon</_location>
+    <_name>King</_name>
+  </Lion>
+</ArrayOfLion>

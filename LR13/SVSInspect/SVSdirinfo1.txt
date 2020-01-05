@@ -1,0 +1,22 @@
+Directories:
+$Recycle.Bin
+BIOS
+Boot
+Dokumente und Einstellungen
+Intel
+MSOCache
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Programme
+Recovery
+System Volume Information
+UserGuidePDF
+Users
+Windows
+Files:
+bootmgr
+hiberfil.sys
+pagefile.sys
+swapfile.sys

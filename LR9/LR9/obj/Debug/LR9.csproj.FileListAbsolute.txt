@@ -1,0 +1,6 @@
+F:\2 курс\ООП\LR9\LR9\bin\Debug\LR9.exe.config
+F:\2 курс\ООП\LR9\LR9\bin\Debug\LR9.exe
+F:\2 курс\ООП\LR9\LR9\bin\Debug\LR9.pdb
+F:\2 курс\ООП\LR9\LR9\obj\Debug\LR9.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR9\LR9\obj\Debug\LR9.exe
+F:\2 курс\ООП\LR9\LR9\obj\Debug\LR9.pdb

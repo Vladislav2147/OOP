@@ -1,0 +1,7 @@
+F:\2 курс\ООП\LR4\LR4\bin\Debug\LR4.exe.config
+F:\2 курс\ООП\LR4\LR4\bin\Debug\LR4.exe
+F:\2 курс\ООП\LR4\LR4\bin\Debug\LR4.pdb
+F:\2 курс\ООП\LR4\LR4\obj\Debug\LR4.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+F:\2 курс\ООП\LR4\LR4\obj\Debug\LR4.exe
+F:\2 курс\ООП\LR4\LR4\obj\Debug\LR4.pdb

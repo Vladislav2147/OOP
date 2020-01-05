@@ -1,0 +1,6 @@
+F:\2 курс\ООП\LR10\LR10\bin\Debug\LR10.exe.config
+F:\2 курс\ООП\LR10\LR10\bin\Debug\LR10.exe
+F:\2 курс\ООП\LR10\LR10\bin\Debug\LR10.pdb
+F:\2 курс\ООП\LR10\LR10\obj\Debug\LR10.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR10\LR10\obj\Debug\LR10.exe
+F:\2 курс\ООП\LR10\LR10\obj\Debug\LR10.pdb

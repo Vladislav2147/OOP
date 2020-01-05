@@ -1,0 +1,7 @@
+F:\2 курс\ООП\LR5\LR5\obj\Debug\LR5.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+F:\2 курс\ООП\LR5\LR5\bin\Debug\LR5.exe.config
+F:\2 курс\ООП\LR5\LR5\bin\Debug\LR5.exe
+F:\2 курс\ООП\LR5\LR5\bin\Debug\LR5.pdb
+F:\2 курс\ООП\LR5\LR5\obj\Debug\LR5.exe
+F:\2 курс\ООП\LR5\LR5\obj\Debug\LR5.pdb

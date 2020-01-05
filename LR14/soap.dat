@@ -1,0 +1,14 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Lion id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/LR14/LR14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<strings href="#ref-3"/>
+<_location id="ref-4">Africa</_location>
+<_name id="ref-5">lion1</_name>
+</a1:Lion>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:string[3]">
+<item id="ref-6">a</item>
+<item id="ref-7">b</item>
+<item id="ref-8">c</item>
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
