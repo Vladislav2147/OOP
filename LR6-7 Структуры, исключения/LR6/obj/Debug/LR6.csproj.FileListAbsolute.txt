@@ -1,0 +1,12 @@
+F:\2 курс\ООП\LR6\LR6\obj\Debug\LR6.csprojAssemblyReference.cache
+F:\2 курс\ООП\LR6\LR6\bin\Debug\LR6.exe.config
+F:\2 курс\ООП\LR6\LR6\bin\Debug\LR6.exe
+F:\2 курс\ООП\LR6\LR6\bin\Debug\LR6.pdb
+F:\2 курс\ООП\LR6\LR6\obj\Debug\LR6.exe
+F:\2 курс\ООП\LR6\LR6\obj\Debug\LR6.pdb
+D:\ООП\LR6-7 Структуры, исключения\LR6\bin\Debug\LR6.exe.config
+D:\ООП\LR6-7 Структуры, исключения\LR6\bin\Debug\LR6.exe
+D:\ООП\LR6-7 Структуры, исключения\LR6\bin\Debug\LR6.pdb
+D:\ООП\LR6-7 Структуры, исключения\LR6\obj\Debug\LR6.csprojAssemblyReference.cache
+D:\ООП\LR6-7 Структуры, исключения\LR6\obj\Debug\LR6.exe
+D:\ООП\LR6-7 Структуры, исключения\LR6\obj\Debug\LR6.pdb
